@@ -1,5 +1,6 @@
 def parse_input(user_input):
     input_list = user_input.split()
+    print(len(input_list))
     ## write codes and exceptions
     ## this function must return number1, operation, number2
 
